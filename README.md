@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahiuddinhabib&label=Profile%20views&color=0e75b6&style=flat" alt="mahiuddinhabib" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahiuddinhabib" alt="mahiuddinhabib" /></a> </p>
+
 
 - 👨‍💻Portfoli: [https://mahiuddin-habib-portfolio.web.app/](https://mahiuddin-habib-portfolio.web.app/)
 
@@ -41,6 +41,8 @@
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
 
 </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahiuddinhabib" alt="mahiuddinhabib" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahiuddinhabib&show_icons=true&locale=en&layout=compact" alt="mahiuddinhabib" /></p>
 
