@@ -28,6 +28,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mahiuddin-habib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahiuddin-habib" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/mh.habib03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mh.habib03" height="30" width="40" /></a>
 </p>
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mahiuddinhabib)  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahiuddinhabib&show_icons=true&count_private=true)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahiuddinhabib&show_icons=true)  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mahiuddinhabib)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mahiuddinhabib) 
