@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://media-exp1.licdn.com/dms/image/D4E16AQHeBorS88mSUQ/profile-displaybackgroundimage-shrink_350_1400/0/1663854234396?e=1669852800&v=beta&t=g-5sBRDlcO5BfpOlqJNA1Rwa2RKISGf11FWKcJyOD0w)
+![I am GitHub Readme Generator's creator](https://raw.githubusercontent.com/mahiuddinhabib/mahiuddinhabib/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Mahiuddin Habib</h1>
 <h3 align="center">A passionate web developer</h3>
 
