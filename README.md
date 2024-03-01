@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://raw.githubusercontent.com/mahiuddinhabib/mahiuddinhabib/main/banner.jpg)
+![I am GitHub Readme Generator's creator](https://raw.githubusercontent.com/mahiuddinhabib/mahiuddinhabib/main/cover-photo.jpg)
 <h1 align="center">Hi 👋, I'm Mahiuddin Habib</h1>
 <h3 align="center">A passionate web developer</h3>
 
